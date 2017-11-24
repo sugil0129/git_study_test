@@ -13,5 +13,6 @@ int main()
 
 	printf("hello");
 	printf("tell her name");
+	printf("hello github ^^ \n");
 	return 0;
 }
