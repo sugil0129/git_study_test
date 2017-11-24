@@ -1,3 +1,6 @@
+//Eduted on Local
+//Eduted on Github
+
 #include <stdio.h>
 int main()
 {
