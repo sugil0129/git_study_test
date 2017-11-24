@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 =======
-//Eduted on Local
-//Eduted on Github
+//Edited on Local
+//Edited on Github
 >>>>>>> origin/master
 
 #include <stdio.h>
