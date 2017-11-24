@@ -1,5 +1,8 @@
-//Edited on Local
-//Edited on Github
+<<<<<<< HEAD
+=======
+//Eduted on Local
+//Eduted on Github
+>>>>>>> origin/master
 
 #include <stdio.h>
 int main()
